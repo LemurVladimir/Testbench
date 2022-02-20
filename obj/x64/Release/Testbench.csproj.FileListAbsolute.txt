@@ -1,0 +1,7 @@
+C:\Users\Екатерина\Source\Repos\LemurVladimir\Testbench\bin\x64\Release\ProcStalker.exe.config
+C:\Users\Екатерина\Source\Repos\LemurVladimir\Testbench\bin\x64\Release\ProcStalker.exe
+C:\Users\Екатерина\Source\Repos\LemurVladimir\Testbench\bin\x64\Release\Mono.Options.dll
+C:\Users\Екатерина\Source\Repos\LemurVladimir\Testbench\obj\x64\Release\Testbench.csprojAssemblyReference.cache
+C:\Users\Екатерина\Source\Repos\LemurVladimir\Testbench\obj\x64\Release\Testbench.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Source\Repos\LemurVladimir\Testbench\obj\x64\Release\Testbench.csproj.CopyComplete
+C:\Users\Екатерина\Source\Repos\LemurVladimir\Testbench\obj\x64\Release\ProcStalker.exe
