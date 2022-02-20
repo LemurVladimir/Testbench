@@ -7,3 +7,11 @@ C:\Users\Екатерина\Source\Repos\LemurVladimir\Testbench\obj\x64\Debug\T
 C:\Users\Екатерина\Source\Repos\LemurVladimir\Testbench\obj\x64\Debug\ProcStalker.exe
 C:\Users\Екатерина\Source\Repos\LemurVladimir\Testbench\obj\x64\Debug\ProcStalker.pdb
 C:\Users\Екатерина\source\repos\LemurVladimir\Testbench\obj\x64\Debug\Testbench.csprojAssemblyReference.cache
+C:\Users\Lemur\Documents\GitHub\Repos\LemurVladimir\Testbench\bin\x64\Debug\ProcStalker.exe.config
+C:\Users\Lemur\Documents\GitHub\Repos\LemurVladimir\Testbench\bin\x64\Debug\ProcStalker.exe
+C:\Users\Lemur\Documents\GitHub\Repos\LemurVladimir\Testbench\bin\x64\Debug\ProcStalker.pdb
+C:\Users\Lemur\Documents\GitHub\Repos\LemurVladimir\Testbench\obj\x64\Debug\Testbench.Properties.Resources.resources
+C:\Users\Lemur\Documents\GitHub\Repos\LemurVladimir\Testbench\obj\x64\Debug\Testbench.csproj.GenerateResource.cache
+C:\Users\Lemur\Documents\GitHub\Repos\LemurVladimir\Testbench\obj\x64\Debug\Testbench.csproj.CoreCompileInputs.cache
+C:\Users\Lemur\Documents\GitHub\Repos\LemurVladimir\Testbench\obj\x64\Debug\ProcStalker.exe
+C:\Users\Lemur\Documents\GitHub\Repos\LemurVladimir\Testbench\obj\x64\Debug\ProcStalker.pdb
