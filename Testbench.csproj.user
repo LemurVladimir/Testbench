@@ -11,6 +11,6 @@
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
   </PropertyGroup>
   <PropertyGroup>
-    <ReferencePath>C:\Program Files\Mono\lib\mono\4.5.2-api\</ReferencePath>
+    <ReferencePath>C:\Program Files\Mono\lib\mono\4.7.2-api\;C:\Program Files\Mono\lib\mono\4.5.2-api\</ReferencePath>
   </PropertyGroup>
 </Project>
