@@ -32,9 +32,10 @@ namespace ProcessStalker {
 					_ => _path = _.Replace("/","\\") },
 				{ "d|delay=", "delay (in seconds) between each collection.\nthis must be an integer.",
 					_ => {
-						if (int.TryParse(_,out int x))
-							_delay = x >= 0 ? x * 1000 : x * -1000;
-						else { 
+						if (int.TryParse(_,out int x)){
+							_delay = Math.Abs(x);
+						}
+						else {
 							_delay = 5000;
 							Console.WriteLine("Couldn't parse the Delay value, proceeding with the default (5 seconds).");
 						}
